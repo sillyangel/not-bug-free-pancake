@@ -16,4 +16,11 @@ a {
   size: 10;
 }
 
+input[type=text] {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #222;
+    size: 50;
+    background-color: #225;
+}
+
 /* i fogot 💀 */
